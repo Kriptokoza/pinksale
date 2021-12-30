@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 30 Dec 2021 15:31:33 at https://www-pinksaie.finance/launchpad/0xcabA3b60400bdC7AfB0359816109a013222d7808/1/indexb6c0.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www-pinksaie.finance/launchpad/0xcabA3b60400bdC7AfB0359816109a013222d7808/1/indexb6c0.html -O1 "C:\Users\srnok\Desktop\zadnji brate tebra\pinksale" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:31:41	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://www.pinksxle.finance/template/pinksale/static/css/main.3ef16f37.chunk.css (from https://www-pinksaie.finance/pinksale/static/css/main.3ef16f37.chunk.css)
+15:31:41	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://www.pinksxle.finance/static/media/pinkswap.a95de4f3.png (from https://www-pinksaie.finance/pinksale/static/css/main.3ef16f37.chunk.css)
+15:32:02	Warning: 	Retry after error -4 (Connect Error) at link https://www.pinksxle.finance/template/pinksale/static/css/main.3ef16f37.chunk.css (from https://www-pinksaie.finance/pinksale/static/css/main.3ef16f37.chunk.css)
+15:32:02	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://www.pinksxle.finance/static/media/pinkswap.a95de4f3.png (from https://www-pinksaie.finance/pinksale/static/css/main.3ef16f37.chunk.css)
+15:32:02	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://www.pinksxle.finance/template/pinksale/static/css/main.3ef16f37.chunk.css (from https://www-pinksaie.finance/pinksale/static/css/main.3ef16f37.chunk.css)
+15:32:02	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://www.pinksxle.finance/static/media/pinkswap.a95de4f3.png (from https://www-pinksaie.finance/pinksale/static/css/main.3ef16f37.chunk.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 29 seconds : 20 links scanned, 13 files written (3722813 bytes overall) [1038477 bytes received at 35809 bytes/sec], 3665492 bytes transferred using HTTP compression in 9 files, ratio 26%, 1.4 requests per connection
+(2 errors, 4 warnings, 0 messages)
